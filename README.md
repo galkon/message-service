@@ -10,4 +10,4 @@ Create a database called: message_service
 Then run the schema.sql against that database
 
 # Run the server
-```./messages```
+``` ./messages ```
