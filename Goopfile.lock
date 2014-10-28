@@ -1,0 +1,4 @@
+github.com/gin-gonic/gin #c3abaf9afcd167475951249d5a406ba10b24a1d9
+github.com/jinzhu/gorm #90106d82c51d1befbb998144864652968db4df3c
+github.com/lib/pq #3e0659e626f761e9af7a8bd1c8b6aaea6770495b
+github.com/julienschmidt/httprouter #7deadb6844d2c6ff1dfb812eaa439b87cdaedf20
